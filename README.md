@@ -1,6 +1,6 @@
 <div align="center">
   <h1><a href="https://cursiveerror.github.io/agunya-mania/" style="text-decoration: none; color: inherit;">🌌 Агуня Манія (Agunya Mania)</a></h1>
-  <p><a href="https://cursiveerror.github.io/agunya-mania/">Заліпательна міні-гра</a>, де тобі потрібно захищати Чорну Діру від нескінченного потоку Агунь! 🍼</p>
+  <p>Заліпательна міні-гра, де тобі потрібно захищати Чорну Діру від нескінченного потоку Агунь! 🍼</p>
 
   <!-- Tech Stack Badges -->
   <p>
@@ -9,14 +9,6 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Canvas_API-FF4C4C?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="Canvas API" />
     <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
-  </p>
-
-  <!-- GitHub Stats Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/version-1.0.0-success?style=for-the-badge" alt="Version" />
-    <img src="https://img.shields.io/github/stars/cursiveerror/agunya-mania?style=for-the-badge&color=yellow" alt="Stars" />
-    <img src="https://img.shields.io/github/forks/cursiveerror/agunya-mania?style=for-the-badge&color=blue" alt="Forks" />
-    <img src="https://img.shields.io/github/license/cursiveerror/agunya-mania?style=for-the-badge" alt="License" />
   </p>
 </div>
 
