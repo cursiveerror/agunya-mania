@@ -10,21 +10,9 @@
     <img src="https://img.shields.io/badge/Canvas_API-FF4C4C?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="Canvas API" />
     <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
   </p>
-
-  <!-- GitHub Stats Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/version-1.0.0-success?style=for-the-badge" alt="Version" />
-    <img src="https://img.shields.io/github/stars/cursiveerror/agunya-mania?style=for-the-badge&color=yellow" alt="Stars" />
-    <img src="https://img.shields.io/github/forks/cursiveerror/agunya-mania?style=for-the-badge&color=blue" alt="Forks" />
-    <img src="https://img.shields.io/github/license/cursiveerror/agunya-mania?style=for-the-badge" alt="License" />
-  </p>
 </div>
 
 ---
-
-> **[👾 ГРАТИ ПРЯМО ЗАРАЗ](https://cursiveerror.github.io/agunya-mania/)**
-
-*(💡 Порада: Додай сюди скріншот або GIF-анімацію гри, щоб сторінка виглядала ще крутіше! Наприклад: `![Gameplay](assets/screenshot.gif)`)*
 
 ## 🎮 Як грати
 
@@ -64,6 +52,3 @@
 3. Відкрий Pull Request. Буду радий покращенням!
 
 ---
-<div align="center">
-Створено з любов'ю та неоном 💜
-</div>
