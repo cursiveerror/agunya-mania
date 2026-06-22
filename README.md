@@ -1,6 +1,30 @@
-# 🌌 Агуня Манія (Agunya Mania)
+<div align="center">
+  <h1>🌌 Агуня Манія (Agunya Mania)</h1>
+  <p>Заліпательна міні-гра, де тобі потрібно захищати Чорну Діру від нескінченного потоку Агунь! 🍼</p>
 
-Заліпательна міні-гра, де тобі потрібно захищати Чорну Діру від нескінченного потоку Агунь! 🍼
+  <!-- Tech Stack Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Canvas_API-FF4C4C?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="Canvas API" />
+    <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
+  </p>
+
+  <!-- GitHub Stats Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/version-1.0.0-success?style=for-the-badge" alt="Version" />
+    <img src="https://img.shields.io/github/stars/cursiveerror/agunya-mania?style=for-the-badge&color=yellow" alt="Stars" />
+    <img src="https://img.shields.io/github/forks/cursiveerror/agunya-mania?style=for-the-badge&color=blue" alt="Forks" />
+    <img src="https://img.shields.io/github/license/cursiveerror/agunya-mania?style=for-the-badge" alt="License" />
+  </p>
+</div>
+
+---
+
+> **[👾 ГРАТИ ПРЯМО ЗАРАЗ](https://cursiveerror.github.io/agunya-mania/)**
+
+*(💡 Порада: Додай сюди скріншот або GIF-анімацію гри, щоб сторінка виглядала ще крутіше! Наприклад: `![Gameplay](assets/screenshot.gif)`)*
 
 ## 🎮 Як грати
 
@@ -16,13 +40,30 @@
 - ⚡ **Висока продуктивність:** Оптимізовано для стабільних 60 FPS навіть на мобільних пристроях.
 - 📶 **Офлайн режим (PWA):** Гру можна встановити на телефон або ПК (через меню браузера "Додати на головний екран") і грати навіть без інтернету!
 
-## 🛠 Технології
-- HTML5 Canvas
-- Vanilla JavaScript
-- Progressive Web App (PWA)
+## 📁 Структура проекту
 
-## 🚀 Де пограти?
-Просто відкрий посилання у своєму браузері: [https://cursiveerror.github.io/agunya-mania/](https://cursiveerror.github.io/agunya-mania/)
+Проект організовано професійно та чисто:
+
+```text
+📦 agunya-mania
+ ┣ 📂 assets       # Картинки та іконки (agunya1.png, icon_512.png...)
+ ┣ 📂 css          # Стилі
+ ┃ ┗ 📜 style.css
+ ┣ 📂 js           # Логіка гри (Canvas API)
+ ┃ ┗ 📜 script.js
+ ┣ 📜 index.html   # Головна сторінка
+ ┣ 📜 manifest.json# Налаштування PWA для встановлення
+ ┗ 📜 sw.js        # Service Worker для офлайн-роботи
+```
+
+## 🤝 Як долучитися (Contributing)
+
+Маєш круті ідеї або хочеш додати нові фічі?
+1. Зроби Fork цього репозиторію.
+2. Внеси свої зміни (наприклад, додай музику чи систему балів).
+3. Відкрий Pull Request. Буду радий покращенням!
 
 ---
+<div align="center">
 Створено з любов'ю та неоном 💜
+</div>
